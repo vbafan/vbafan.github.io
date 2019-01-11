@@ -5,13 +5,11 @@
   
   
   
-    <meta name="description" content="林">
-  
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <title>
     多个工作表拆分为独立工作簿 |
     
-    Aqie</title>
+    哈哈哈</title>
   
     <link rel="shortcut icon" href="/favicon.ico">
   
@@ -68,7 +66,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/02/06/多个工作表拆分为独立工作簿/" data-id="cjqs3qwy00008n9jdhgudh3wh" class="article-share-link">分享</a>
+      <a data-url="http://esbi.com.cn/2018/02/06/多个工作表拆分为独立工作簿/" data-id="cjqs7vepr000at3jdiwu1ywa5" class="article-share-link">分享</a>
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/源码/">源码</a></li></ul>
 
@@ -102,6 +100,25 @@
 
   
     
+  <div class="gitalk" id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script type="text/javascript">
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        // id: location.pathname,      // Ensure uniqueness and length less than 50
+        id: md5(location.pathname),
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+  gitalk.render('gitalk-container')
+  </script>
+
   
 
 </article>
@@ -113,7 +130,7 @@
   
   <div class="outer">
     <ul class="list-inline">
-      <li>&copy; 2019 Aqie</li>
+      <li>&copy; 2019 哈哈哈</li>
       <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
       <li>Theme  <a href="https://zhwangart.github.io">zhwangart</a></li>
       <!--
@@ -129,7 +146,7 @@
 <nav class="navbar">
   
     <div class="logo">
-      <a href="/"><img src="/images/hexo.svg" alt="Aqie"></a>
+      <a href="/"><img src="/images/hexo.svg" alt="哈哈哈"></a>
     </div>
   
   <ul class="nav nav-main">
@@ -146,12 +163,8 @@
         <a class="nav-item-link" href="/gallery">相册</a>
       </li>
     
-      <li class="nav-item">
-        <a class="nav-item-link" href="/about">关于</a>
-      </li>
-    
     <li class="nav-item">
-      <a class="nav-item-link nav-item-search" title="搜索">
+      <a class="nav-item-link nav-item-search" title="Search">
         <i class="fe fe-search"></i>
         搜索
       </a>
