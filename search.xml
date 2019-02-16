@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo 页面中插入视频]]></title>
+    <url>%2F2019%2F02%2F17%2FHexo-%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91%2F</url>
+    <content type="text"><![CDATA[123&lt;video controls&gt;&lt;source src="ocean.mp4"&gt;&lt;/video&gt;]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[感悟]]></title>
     <url>%2F2019%2F02%2F16%2F%E6%84%9F%E6%82%9F%2F</url>
     <content type="text"><![CDATA[优先做重要而不紧急的，因为重要而不紧急的往往会转化为重要而紧急。 多汇报，坚持做到早请示，晚报告。 少说话，多倾听，不背后说人是非，不站队。 经常开展自我批评。 做事要既大气又要谨慎。]]></content>
