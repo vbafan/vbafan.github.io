@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[感悟]]></title>
+    <url>%2F2019%2F02%2F16%2F%E6%84%9F%E6%82%9F%2F</url>
+    <content type="text"><![CDATA[优先做重要而不紧急的，因为重要而不紧急的往往会转化为重要而紧急。 多汇报，坚持做到早请示，晚报告。 少说话，多倾听，不背后说人是非，不站队。 经常开展自我批评。 做事要既大气又要谨慎。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo中添加本地图片和使用网络图片]]></title>
     <url>%2F2019%2F01%2F18%2FHexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%2F</url>
     <content type="text"><![CDATA[First 相对引用由于首页和主页相对图片位置不一致，网站首页和内页很可能仅有一处能正常加载。 1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True 2 在source下创建/images文件夹，先把图片xx.jpg/png复制到这个文件夹 3 最后在xxxx.md中想引入图片时，只需要在xxxx.md中按照markdown的格式引入图片： 1![想输入的提示名字，可不输入](/images/xx.jpg) Second 图床 如SMMS图床无需注册 以下是测试：请备份，Delete Link,必要时访问此链接删除图片。]]></content>
@@ -30,7 +35,7 @@
   <entry>
     <title><![CDATA[加密内容]]></title>
     <url>%2F2019%2F01%2F12%2F%E5%8A%A0%E5%AF%86%E4%BF%A1%E6%81%AF%2F</url>
-    <content type="text"><![CDATA[请输入文章密码. Incorrect Password! No content to display! U2FsdGVkX1+4SBGsr5xtOguR/PgWi6NiW/72sAgENws=]]></content>
+    <content type="text"><![CDATA[请输入文章密码. Incorrect Password! No content to display! U2FsdGVkX1+c3P9NScW7RbCgwl0AcwWA/5/ihY0FTB4=]]></content>
   </entry>
   <entry>
     <title><![CDATA[VBA实例-点击式选择]]></title>
