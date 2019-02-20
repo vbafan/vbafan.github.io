@@ -56,57 +56,6 @@
 
     
       
-        <article id="post-循环打印" class="article article-type-post" itemscope="" itemprop="blogPost">
-
-  <div class="article-inner">
-    
-      <header class="article-header">
-        
-  
-    <h2 itemprop="name">
-      <a class="article-title" href="/2018/03/08/循环打印/">工作表逐行操作打印</a>
-    </h2>
-  
-
-      </header>
-    
-
-    
-      <div class="article-meta">
-        <a href="/2018/03/08/循环打印/" class="article-date">
-  <time datetime="2018-03-08T04:56:02.000Z" itemprop="datePublished">2018-03-08</time>
-</a>
-        
-      </div>
-    
-
-    <div class="article-entry" itemprop="articleBody">
-      
-      
-      
-        <p>EH论坛中，有题主问如何实现自工作表第二行起逐行背景加灰，并一式打印三份。</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Sub test()</span><br><span class="line">    For I = 2 To Range(&quot;A1&quot;).CurrentRegion.Rows.Count</span><br><span class="line">        Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark2</span><br><span class="line">            Application.ActiveSheet.PrintOut COPIES:=3</span><br><span class="line">         Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark1</span><br><span class="line">        Next</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/03/08/循环打印/" data-id="cjs7llzo9000gi3jbzc40v3ki" class="article-share-link">分享</a>
-      
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/打印/">打印</a></li></ul>
-
-    </footer>
-
-  </div>
-
-  
-
-  
-
-</article>
-
-
-
-      
         <article id="post-行业分类代码工具" class="article article-type-post" itemscope="" itemprop="blogPost">
 
   <div class="article-inner">
@@ -135,31 +84,12 @@
       
       
       
-        <p>国民经济行业分类（GB/T 4754—2017）已于2017年10月1日实施，2018年开年是行业分类代码更新和查询的高峰期，但如何查询行业代码和批量转化为2017版是当前工作中的一个难点。</p>
-<p>根据个人平时工作需要制作此工具，制作过程中参阅ExcelHome论坛多篇帖子。该工具适合各级统计工作从业人员。</p>
-<p>批量转换功能</p>
-<ul>
-<li><p>将待转换行业分类代码粘贴到B列，C列自动更新为新行业分类代码，一拆多默认选取第一个</p>
-<p>  <img src="/images/3.png" alt=""></p>
-</li>
-</ul>
-<p>检索功能</p>
-<ul>
-<li><p>需开启宏，“文件”&gt;“选项”，选择“启动内容”选项，然后“确定”即可启动宏了,不同版本可能有差异</p>
-</li>
-<li><p>输入关键字，点击“查找”即可<br>  <img src="/images/2.png" alt=""></p>
-</li>
-</ul>
-<p>四级下拉逐级查询</p>
-<ul>
-<li>从大中小类逐级选取，直至确定</li>
-</ul>
-<p>以下提供文件链接：</p>
-<p><a href="https://pan.baidu.com/s/1nwLPtsH" target="_blank" rel="noopener">百度网盘</a></p>
-<p>祝自己2018年新年快乐！<br>2018-2-12   巴东</p>
-
+        <p>国民经济行业分类（GB/T 4754—2017）已于2017年10月1日实施，2018年开年是行业分类代码更新和查询的高峰期，但如何查询行业代码和批量转化为2017版是当前工作中的一个难点。<br>
+        
+          <a class="article-more-link" href="/2018/02/12/行业分类代码工具/">阅读全文...</a>
+        
       
-    </div>
+    </p></div>
     <footer class="article-footer">
       <a data-url="http://esbi.com.cn/2018/02/12/行业分类代码工具/" data-id="cjs7llzoc000mi3jbjvow1mgy" class="article-share-link">分享</a>
       
@@ -239,7 +169,7 @@
         
   
     <h2 itemprop="name">
-      <a class="article-title" href="/2018/02/06/多个工作表拆分为独立工作簿/">多个工作表拆分为独立工作簿</a>
+      <a class="article-title" href="/2017/02/06/多个工作表拆分为独立工作簿/">多个工作表拆分为独立工作簿</a>
     </h2>
   
 
@@ -248,8 +178,8 @@
 
     
       <div class="article-meta">
-        <a href="/2018/02/06/多个工作表拆分为独立工作簿/" class="article-date">
-  <time datetime="2018-02-06T10:41:28.000Z" itemprop="datePublished">2018-02-06</time>
+        <a href="/2017/02/06/多个工作表拆分为独立工作簿/" class="article-date">
+  <time datetime="2017-02-06T10:41:00.000Z" itemprop="datePublished">2017-02-06</time>
 </a>
         
       </div>
@@ -260,21 +190,13 @@
       
       
         <p>该代码用于多个工作表拆解成单独工作簿分发到不同用户手中。</p>
-<ul>
-<li>1.点击菜单插入模块，输入以下代码：</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">Private Sub 分拆工作表()</span><br><span class="line">       Dim sht As Worksheet</span><br><span class="line">       Dim MyBook As Workbook</span><br><span class="line">           Set MyBook = ActiveWorkbook</span><br><span class="line">       For Each sht In MyBook.Sheets</span><br><span class="line">           sht.Copy</span><br><span class="line">           ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name, FileFormat:=xlNormal     &apos;将工作簿另存为&quot;xls&quot;默认格式</span><br><span class="line">           &apos;ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name &amp; &quot;.xlsx&quot;     &apos;将工作簿另存为&quot;xlsx&quot;格式</span><br><span class="line">           ActiveWorkbook.Close</span><br><span class="line">       Next</span><br><span class="line">       MsgBox &quot;文件已经被分拆完毕!&quot;</span><br><span class="line">   End Sub</span><br></pre></td></tr></table></figure>
-<ul>
-<li>2.单击运行运行子过程|窗体，拆分的文件与源文件在同地址。文件名为工作簿名。</li>
-<li>3.如果使用xlsx文件会导致兼容性提示，如果有几十个工作表可能会导致卡顿影响效率，请更换注释行。</li>
-<li>4.代码来源于网络,Excel2016测试有效。</li>
-</ul>
-<p>建议：若想通过一张数据表拆分成多表再生成多工作簿，可在数据透视表中添加筛选字段，点击分析&gt;数据透视表选项卡&gt;选项下拉菜单&gt;生成GetGivotdata(G),然后使用该段代码。</p>
-
+        
+          <a class="article-more-link" href="/2017/02/06/多个工作表拆分为独立工作簿/">阅读全文...</a>
+        
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/02/06/多个工作表拆分为独立工作簿/" data-id="cjs7llzo8000fi3jbv53awpxj" class="article-share-link">分享</a>
+      <a data-url="http://esbi.com.cn/2017/02/06/多个工作表拆分为独立工作簿/" data-id="cjs7llzo8000fi3jbv53awpxj" class="article-share-link">分享</a>
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/源码/">源码</a></li></ul>
 
@@ -299,7 +221,7 @@
         
   
     <h2 itemprop="name">
-      <a class="article-title" href="/2018/02/06/合并多个工作簿为一个工作簿/">合并多个工作簿中的工作表为一个工作簿</a>
+      <a class="article-title" href="/2016/02/06/合并多个工作簿为一个工作簿/">合并多个工作簿中的工作表为一个工作簿</a>
     </h2>
   
 
@@ -308,8 +230,8 @@
 
     
       <div class="article-meta">
-        <a href="/2018/02/06/合并多个工作簿为一个工作簿/" class="article-date">
-  <time datetime="2018-02-06T10:39:08.000Z" itemprop="datePublished">2018-02-06</time>
+        <a href="/2016/02/06/合并多个工作簿为一个工作簿/" class="article-date">
+  <time datetime="2016-02-06T10:39:00.000Z" itemprop="datePublished">2016-02-06</time>
 </a>
         
       </div>
@@ -320,21 +242,13 @@
       
       
         <p>该代码用于将多用户手中收集的多个工作表合并成单独工作簿。</p>
-<ul>
-<li>1.点击菜单插入模块，输入以下代码：</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Sub 工作薄间工作表合并()  </span><br><span class="line">  	Dim FileOpen  </span><br><span class="line">	Dim X As Integer  </span><br><span class="line">	Application.ScreenUpdating = False  </span><br><span class="line">	FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)  </span><br><span class="line">	&apos;FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)</span><br><span class="line"> 		X = 1  </span><br><span class="line">			While X &lt;= UBound(FileOpen)  </span><br><span class="line">				Workbooks.Open Filename:=FileOpen(X)  </span><br><span class="line">				Sheets().Move After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count)  </span><br><span class="line">		X = X + 1  </span><br><span class="line">		Wend  </span><br><span class="line">			ExitHandler:  </span><br><span class="line">	Application.ScreenUpdating = True  </span><br><span class="line">	Exit Sub  </span><br><span class="line">		errhadler:  </span><br><span class="line">	MsgBox Err.Description  </span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure>
-<ul>
-<li>2.保存，表格存为启用宏的工作簿，如果为xlsx记得将上面的.xls修改为xlsx，或者更换注释行。</li>
-<li>3.开发工具&gt;运行宏,按Ctrl可选择多个文件。</li>
-<li>4.代码来源于网络,Excel2016测试有效。</li>
-</ul>
-<p>注：该代码只能将工作表合并到一张工作表，但不能将多表数据合并到一张表。</p>
-
+        
+          <a class="article-more-link" href="/2016/02/06/合并多个工作簿为一个工作簿/">阅读全文...</a>
+        
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/02/06/合并多个工作簿为一个工作簿/" data-id="cjs7llzo3000bi3jbraswx1ms" class="article-share-link">分享</a>
+      <a data-url="http://esbi.com.cn/2016/02/06/合并多个工作簿为一个工作簿/" data-id="cjs7llzo3000bi3jbraswx1ms" class="article-share-link">分享</a>
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/源码/">源码</a></li></ul>
 

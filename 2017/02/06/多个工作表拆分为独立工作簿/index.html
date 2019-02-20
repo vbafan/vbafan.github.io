@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <title>
-    合并多个工作簿中的工作表为一个工作簿 |
+    多个工作表拆分为独立工作簿 |
     
     哈哈哈</title>
   
@@ -23,7 +23,7 @@
 <body>
 <main class="content">
   <section class="outer">
-  <article id="post-合并多个工作簿为一个工作簿" class="article article-type-post" itemscope="" itemprop="blogPost">
+  <article id="post-多个工作表拆分为独立工作簿" class="article article-type-post" itemscope="" itemprop="blogPost">
 
   <div class="article-inner">
     
@@ -31,7 +31,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      合并多个工作簿中的工作表为一个工作簿
+      多个工作表拆分为独立工作簿
     </h1>
   
 
@@ -40,8 +40,8 @@
 
     
       <div class="article-meta">
-        <a href="/2018/02/06/合并多个工作簿为一个工作簿/" class="article-date">
-  <time datetime="2018-02-06T10:39:08.000Z" itemprop="datePublished">2018-02-06</time>
+        <a href="/2017/02/06/多个工作表拆分为独立工作簿/" class="article-date">
+  <time datetime="2017-02-06T10:41:00.000Z" itemprop="datePublished">2017-02-06</time>
 </a>
         
       </div>
@@ -51,22 +51,23 @@
       
       
       
-        <p>该代码用于将多用户手中收集的多个工作表合并成单独工作簿。</p>
+        <p>该代码用于多个工作表拆解成单独工作簿分发到不同用户手中。</p>
+<a id="more"></a>
 <ul>
 <li>1.点击菜单插入模块，输入以下代码：</li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Sub 工作薄间工作表合并()  </span><br><span class="line">  	Dim FileOpen  </span><br><span class="line">	Dim X As Integer  </span><br><span class="line">	Application.ScreenUpdating = False  </span><br><span class="line">	FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)  </span><br><span class="line">	&apos;FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)</span><br><span class="line"> 		X = 1  </span><br><span class="line">			While X &lt;= UBound(FileOpen)  </span><br><span class="line">				Workbooks.Open Filename:=FileOpen(X)  </span><br><span class="line">				Sheets().Move After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count)  </span><br><span class="line">		X = X + 1  </span><br><span class="line">		Wend  </span><br><span class="line">			ExitHandler:  </span><br><span class="line">	Application.ScreenUpdating = True  </span><br><span class="line">	Exit Sub  </span><br><span class="line">		errhadler:  </span><br><span class="line">	MsgBox Err.Description  </span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">Private Sub 分拆工作表()</span><br><span class="line">       Dim sht As Worksheet</span><br><span class="line">       Dim MyBook As Workbook</span><br><span class="line">           Set MyBook = ActiveWorkbook</span><br><span class="line">       For Each sht In MyBook.Sheets</span><br><span class="line">           sht.Copy</span><br><span class="line">           ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name, FileFormat:=xlNormal     &apos;将工作簿另存为&quot;xls&quot;默认格式</span><br><span class="line">           &apos;ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name &amp; &quot;.xlsx&quot;     &apos;将工作簿另存为&quot;xlsx&quot;格式</span><br><span class="line">           ActiveWorkbook.Close</span><br><span class="line">       Next</span><br><span class="line">       MsgBox &quot;文件已经被分拆完毕!&quot;</span><br><span class="line">   End Sub</span><br></pre></td></tr></table></figure>
 <ul>
-<li>2.保存，表格存为启用宏的工作簿，如果为xlsx记得将上面的.xls修改为xlsx，或者更换注释行。</li>
-<li>3.开发工具&gt;运行宏,按Ctrl可选择多个文件。</li>
+<li>2.单击运行运行子过程|窗体，拆分的文件与源文件在同地址。文件名为工作簿名。</li>
+<li>3.如果使用xlsx文件会导致兼容性提示，如果有几十个工作表可能会导致卡顿影响效率，请更换注释行。</li>
 <li>4.代码来源于网络,Excel2016测试有效。</li>
 </ul>
-<p>注：该代码只能将工作表合并到一张工作表，但不能将多表数据合并到一张表。</p>
+<p>建议：若想通过一张数据表拆分成多表再生成多工作簿，可在数据透视表中添加筛选字段，点击分析&gt;数据透视表选项卡&gt;选项下拉菜单&gt;生成GetGivotdata(G),然后使用该段代码。</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/02/06/合并多个工作簿为一个工作簿/" data-id="cjs7llzo3000bi3jbraswx1ms" class="article-share-link">分享</a>
+      <a data-url="http://esbi.com.cn/2017/02/06/多个工作表拆分为独立工作簿/" data-id="cjs7llzo8000fi3jbv53awpxj" class="article-share-link">分享</a>
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/源码/">源码</a></li></ul>
 
@@ -78,15 +79,20 @@
     
   <nav class="article-nav">
     
-      <a href="/2018/02/06/多个工作表拆分为独立工作簿/" class="article-nav-link">
+      <a href="/2018/02/09/happybd2018/" class="article-nav-link">
         <strong class="article-nav-caption">前一篇</strong>
         <div class="article-nav-title">
           
-            多个工作表拆分为独立工作簿
+            琴瑟在御，莫不静好。
           
         </div>
       </a>
     
+    
+      <a href="/2016/02/06/合并多个工作簿为一个工作簿/" class="article-nav-link">
+        <strong class="article-nav-caption">后一篇</strong>
+        <div class="article-nav-title">合并多个工作簿中的工作表为一个工作簿</div>
+      </a>
     
   </nav>
 

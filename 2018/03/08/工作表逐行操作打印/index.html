@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <title>
-    Hexo中添加本地文件下载 |
+    工作表逐行操作打印 |
     
     哈哈哈</title>
   
@@ -23,7 +23,7 @@
 <body>
 <main class="content">
   <section class="outer">
-  <article id="post-Hexo中添加本地文件下载" class="article article-type-post" itemscope="" itemprop="blogPost">
+  <article id="post-工作表逐行操作打印" class="article article-type-post" itemscope="" itemprop="blogPost">
 
   <div class="article-inner">
     
@@ -31,7 +31,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      Hexo中添加本地文件下载
+      工作表逐行操作打印
     </h1>
   
 
@@ -40,8 +40,8 @@
 
     
       <div class="article-meta">
-        <a href="/2018/04/07/Hexo中添加本地文件下载/" class="article-date">
-  <time datetime="2018-04-07T08:29:02.000Z" itemprop="datePublished">2018-04-07</time>
+        <a href="/2018/03/08/工作表逐行操作打印/" class="article-date">
+  <time datetime="2018-03-08T04:56:02.000Z" itemprop="datePublished">2018-03-08</time>
 </a>
         
       </div>
@@ -51,26 +51,15 @@
       
       
       
-        <h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p>我们的博客中往往会提供一些文件供别人直接下载查看，一般来说我们会上传的百度网盘等第三方，下面我们尝试将文件和代码放在一起。</p>
-<ul>
-<li><p>1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True</p>
-<a id="more"></a>
-</li>
-<li><p>2 在source下创建/download文件夹，先把文件xxx.xls/doc（或者其他）复制到这个文件夹</p>
-</li>
-<li><p>3 最后在xxxx.md中想引入下载链接时，只需要在xxxx.md中按照markdown的格式引入即可：</p>
-</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">查看实例  [点击下载](/download/学生表格.xlsm)</span><br></pre></td></tr></table></figure>
-<p>查看实例  <a href="/download/学生表格.xlsm">点击下载</a></p>
-<h2 id="Second-网盘"><a href="#Second-网盘" class="headerlink" title="Second 网盘"></a>Second 网盘</h2><p>不再赘述</p>
+        <p>EH论坛中，有题主问如何实现自工作表第二行起逐行背景加灰，并一式打印三份。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Sub test()</span><br><span class="line">    For I = 2 To Range(&quot;A1&quot;).CurrentRegion.Rows.Count</span><br><span class="line">        Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark2</span><br><span class="line">            Application.ActiveSheet.PrintOut COPIES:=3</span><br><span class="line">         Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark1</span><br><span class="line">        Next</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://esbi.com.cn/2018/04/07/Hexo中添加本地文件下载/" data-id="cjs7llznx0004i3jbjpj5q2f3" class="article-share-link">分享</a>
+      <a data-url="http://esbi.com.cn/2018/03/08/工作表逐行操作打印/" data-id="cjsd8ygo900053ejdwj53b9zz" class="article-share-link">分享</a>
       
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/">Hexo</a></li></ul>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/VBA/">VBA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/打印/">打印</a></li></ul>
 
     </footer>
 
@@ -80,19 +69,19 @@
     
   <nav class="article-nav">
     
-      <a href="/2018/04/07/VBA实例-点击式选择/" class="article-nav-link">
+      <a href="/2018/04/07/破解工作表审阅密码/" class="article-nav-link">
         <strong class="article-nav-caption">前一篇</strong>
         <div class="article-nav-title">
           
-            VBA实例-点击式选择
+            破解工作表审阅密码
           
         </div>
       </a>
     
     
-      <a href="/2018/04/07/破解工作表审阅密码/" class="article-nav-link">
+      <a href="/2018/02/12/行业分类代码工具/" class="article-nav-link">
         <strong class="article-nav-caption">后一篇</strong>
-        <div class="article-nav-title">破解工作表审阅密码</div>
+        <div class="article-nav-title">行业分类代码查询和批量转换工具</div>
       </a>
     
   </nav>
