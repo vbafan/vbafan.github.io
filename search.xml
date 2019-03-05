@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[2019观影记录]]></title>
+    <url>%2F2019%2F03%2F05%2F%E7%94%B5%E5%BD%B1%E6%94%B6%E7%9C%8B%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[记录观影历程 [新局长到来之前].吕班 [飞驰人生].韩寒 [最后的棒棒].何苦 拥有今天还拥有希望，就是最大的幸福大寒过后，一定立春 [中国市长（大同）].周浩 大同大不同 [书记].周浩 [白蛇：缘起] [急救].周浩 [绿皮书].彼得·法雷里]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[用好Excle,你可能要听听这几点建议]]></title>
     <url>%2F2019%2F02%2F20%2F%E7%94%A8%E5%A5%BDEXCEL%2C%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%A6%81%E5%90%AC%E5%90%AC%E8%BF%99%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE%2F</url>
-    <content type="text"><![CDATA[Excel 是我们工作最常用的办公软件，没有之一。如果只是之一，可能你还没有认识到Excel的巨大用途。 知乎上曾有网友说：除了不能生孩子，其他的Excel都能做。用好Excel能够很大程度上提高工作效率，我们在这里并不谈Excel的使用技巧，以下是几点建议。 1.使用高版本，尝试使用新功能 从Excel 的发展历程看，版本兼容总是高版本兼容低版本，而低版本即使安装兼容包也无法正常使用。例如Excel 2003文件的宏文件后缀名为.xls而无法打开.xlsm文件，Excel 2007兼容数据透视表极差，而Excel 2003无法使用数据透视表。 绿色免安装版本的Office可能导致闪退或者其他故障。 2.要有程序化的思维 为了收集的数据规范统一、我们往往可以通过下拉框或vlookup固定一部分信息，减少他人因为习惯或手误造成数据错误的情况。 如过你会一些VBA,你也可以减少表头的使用，来方便多表快速汇总。 为了减少Excel文件个数，方便统计和打印表式一致，我们可以通过数据透视表或者vlookup结合下拉框将多个数据汇总在一张工作表。 3.培养良好的制表习惯 除非为了打印效果，不要使用合并单元格这一功能。 如果计算结果对精度有要求，不要在中间过程使用round( )函数。]]></content>
+    <content type="text"><![CDATA[Excel 是我们工作最常用的办公软件，没有之一。如果只是之一，可能你还没有认识到Excel的巨大用途。 用好Excel能够很大程度上提高工作效率，我们在这里并不谈Excel的使用技巧，以下是几点建议。 1.使用高版本，尝试使用新功能 从Excel 的发展历程看，版本兼容总是高版本兼容低版本，而低版本即使安装兼容包也无法正常使用。例如Excel 2003文件的宏文件后缀名为.xls而无法打开.xlsm文件，Excel 2007兼容数据透视表极差，而Excel 2003无法使用数据透视表。 绿色免安装版本的Office可能导致闪退或者其他故障。 2.要有程序化的思维 为了收集的数据规范统一、我们往往可以通过下拉框或vlookup固定一部分信息，减少他人因为习惯或手误造成数据错误的情况。 如过你会一些VBA,你也可以减少表头的使用，来方便多表快速汇总。 为了减少Excel文件个数，方便统计和打印表式一致，我们可以通过数据透视表或者vlookup结合下拉框将多个数据汇总在一张工作表。 3.培养良好的制表习惯 除非为了打印效果，不要使用合并单元格这一功能。 如果计算结果对精度有要求，不要在中间过程使用round( )函数。]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hexo 页面中插入视频]]></title>
     <url>%2F2019%2F02%2F17%2FHexo-%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91%2F</url>
-    <content type="text"><![CDATA[123&lt;video controls&gt;&lt;source src="ocean.mp4"&gt;&lt;/video&gt;]]></content>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Hexo中添加本地图片和使用网络图片]]></title>
     <url>%2F2019%2F01%2F18%2FHexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%2F</url>
-    <content type="text"><![CDATA[First 相对引用由于首页和主页相对图片位置不一致，网站首页和内页很可能仅有一处能正常加载。 1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True 2 在source下创建/images文件夹，先把图片xx.jpg/png复制到这个文件夹 3 最后在xxxx.md中想引入图片时，只需要在xxxx.md中按照markdown的格式引入图片： 1![想输入的提示名字，可不输入](/images/xx.jpg) Second 图床 如SMMS图床无需注册 以下是测试：请备份，Delete Link,必要时访问此链接删除图片。]]></content>
+    <content type="text"><![CDATA[First 相对引用由于首页和主页相对图片位置不一致，网站首页和内页很可能仅有一处能正常加载。 1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True 2 在source下创建/images文件夹，先把图片xx.jpg/png复制到这个文件夹 3 最后在xxxx.md中想引入图片时，只需要在xxxx.md中按照markdown的格式引入图片： 1![想输入的提示名字，可不输入](/images/xx.jpg) Second 图床 如SMMS图床无需注册 以下是测试：请备份，Delete Link,必要时访问此链接删除图片。 注：本地插入视频的方式123&lt;video controls&gt;&lt;source src="ocean.mp4"&gt;&lt;/video&gt;]]></content>
       <tags>
         <tag>Hexo</tag>
       </tags>
