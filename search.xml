@@ -1,291 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>身份证统一社会信用代码合法校验Excel</title>
-      <link href="/2019/05/18/%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81%E5%90%88%E6%B3%95%E6%A0%A1%E9%AA%8CExcel/"/>
-      <url>/2019/05/18/%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81%E5%90%88%E6%B3%95%E6%A0%A1%E9%AA%8CExcel/</url>
-      
-        <content type="html"><![CDATA[<p>根据最新修订的《中华人民共和国居民身份证法》第二十三条规定，依照《中华人民共和国居民身份证条例》领取的居民身份证，自2013年1月1日起停止使用。即一代身份证已于2013年1月1日起停止使用，本文内容适用于二代身份证，如无特殊说明，本文中所说的身份证皆指二代身份证。</p><p>根据《法人和其他组织统一社会信用代码制度建设总体方案》：法人和其他组织统一社会信用代码共18位，包括五个部分，分别是1位登记管理部门代码、1位类别代码、6位登记管理机关行政区划码、9位主体标识码(组织代码)和1位校验码。</p><p><a href="/download/身份证统一社会信用代码合法校验Excel.xlsm">点击下载</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Excel </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2019观影记录</title>
-      <link href="/2019/03/05/%E7%94%B5%E5%BD%B1%E6%94%B6%E7%9C%8B%E8%AE%B0%E5%BD%95/"/>
-      <url>/2019/03/05/%E7%94%B5%E5%BD%B1%E6%94%B6%E7%9C%8B%E8%AE%B0%E5%BD%95/</url>
-      
-        <content type="html"><![CDATA[<p>记录观影历程<br><a id="more"></a></p><ul><li style="list-style: none"><input type="checkbox" checked> [新局长到来之前].吕班</li><li style="list-style: none"><input type="checkbox" checked> [飞驰人生].韩寒</li><li style="list-style: none"><input type="checkbox" checked> [最后的棒棒].何苦</li><li>拥有今天还拥有希望，就是最大的幸福大寒过后，一定立春</li><li style="list-style: none"><input type="checkbox" checked> [中国市长（大同）].周浩</li><li>大同大不同</li><li style="list-style: none"><input type="checkbox" checked> [书记].周浩</li><li style="list-style: none"><input type="checkbox" checked> [白蛇：缘起]</li><li style="list-style: none"><input type="checkbox" checked> [急救].周浩</li><li style="list-style: none"><input type="checkbox" checked> [绿皮书].彼得·法雷里</li><li style="list-style: none"><input type="checkbox" checked> [阳光姐妹淘]</li><li style="list-style: none"><input type="checkbox" checked> [7号房的礼物]</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>用好Excle,你可能要听听这几点建议</title>
-      <link href="/2019/02/20/%E7%94%A8%E5%A5%BDEXCEL,%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%A6%81%E5%90%AC%E5%90%AC%E8%BF%99%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE/"/>
-      <url>/2019/02/20/%E7%94%A8%E5%A5%BDEXCEL,%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%A6%81%E5%90%AC%E5%90%AC%E8%BF%99%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE/</url>
-      
-        <content type="html"><![CDATA[<hr><p><strong>Excel</strong> 是我们工作最常用的办公软件，没有之一。如果只是之一，可能你还没有认识到Excel的巨大用途。</p><a id="more"></a><p>用好Excel能够很大程度上提高工作效率，我们在这里并不谈Excel的使用技巧，以下是几点建议。</p><h3 id="1-使用高版本，尝试使用新功能"><a href="#1-使用高版本，尝试使用新功能" class="headerlink" title="1.使用高版本，尝试使用新功能"></a>1.使用高版本，尝试使用新功能</h3><ul><li>从Excel 的发展历程看，版本兼容总是高版本兼容低版本，而低版本即使安装兼容包也无法正常使用。例如Excel 2003文件的宏文件后缀名为.xls而无法打开.xlsm文件，Excel 2007兼容数据透视表极差，而Excel 2003无法使用数据透视表。</li><li>绿色免安装版本的Office可能导致闪退或者其他故障。</li></ul><h3 id="2-要有程序化的思维"><a href="#2-要有程序化的思维" class="headerlink" title="2.要有程序化的思维"></a>2.要有程序化的思维</h3><ul><li>为了收集的数据规范统一、我们往往可以通过下拉框或vlookup固定一部分信息，减少他人因为习惯或手误造成数据错误的情况。</li><li>如过你会一些VBA,你也可以减少表头的使用，来方便多表快速汇总。</li><li>为了减少Excel文件个数，方便统计和打印表式一致，我们可以通过数据透视表或者vlookup结合下拉框将多个数据汇总在一张工作表。</li></ul><h3 id="3-培养良好的制表习惯"><a href="#3-培养良好的制表习惯" class="headerlink" title="3.培养良好的制表习惯"></a>3.培养良好的制表习惯</h3><ul><li>除非为了打印效果，不要使用<strong>合并单元格</strong>这一功能。</li><li>如果计算结果对精度有要求，不要在中间过程使用<strong>round(      )</strong>函数。</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo 页面中插入视频</title>
-      <link href="/2019/02/17/Hexo-%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/"/>
-      <url>/2019/02/17/Hexo-%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo中添加本地图片和使用网络图片</title>
-      <link href="/2019/01/18/Hexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/"/>
-      <url>/2019/01/18/Hexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/</url>
-      
-        <content type="html"><![CDATA[<h2 id="First-相对引用"><a href="#First-相对引用" class="headerlink" title="First 相对引用"></a>First 相对引用</h2><p>由于首页和主页相对图片位置不一致，网站首页和内页很可能仅有一处能正常加载。</p><ul><li><p>1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True</p><a id="more"></a></li><li><p>2 在source下创建/images文件夹，先把图片xx.jpg/png复制到这个文件夹</p></li><li><p>3 最后在xxxx.md中想引入图片时，只需要在xxxx.md中按照markdown的格式引入图片：</p></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![想输入的提示名字，可不输入](/images/xx.jpg)</span><br></pre></td></tr></table></figure><h2 id="Second-图床"><a href="#Second-图床" class="headerlink" title="Second 图床"></a>Second 图床</h2><ul><li>如<a href="https://sm.ms/" target="_blank" rel="noopener">SMMS图床</a>无需注册</li></ul><p>以下是测试：<br><img src="https://i.loli.net/2018/02/09/5a7d6a402e15e.jpg" alt="1.jpg"><br>请备份，Delete Link,必要时访问此链接删除图片。</p><hr><p>注：本地插入视频的方式<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;video controls&gt;</span><br><span class="line">&lt;source src=<span class="string">"ocean.mp4"</span>&gt;</span><br><span class="line">&lt;/video&gt;</span><br></pre></td></tr></table></figure></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Excel Vba 制作的几款游戏</title>
-      <link href="/2019/01/18/Excel-Vba-%E5%88%B6%E4%BD%9C%E7%9A%84%E5%87%A0%E6%AC%BE%E6%B8%B8%E6%88%8F/"/>
-      <url>/2019/01/18/Excel-Vba-%E5%88%B6%E4%BD%9C%E7%9A%84%E5%87%A0%E6%AC%BE%E6%B8%B8%E6%88%8F/</url>
-      
-        <content type="html"><![CDATA[<p>Excel 除了不能生孩子，其他的都能做。这里分享几个用Excel制作的游戏。<br><a id="more"></a></p><ul><li>中国象棋<br><img src="/images/zhongguoxiangqi.png" alt="想输入的提示名字，可不输入"><br><a href="/download/中国象棋.xls">点击下载</a></li></ul><ul><li>五子棋<br><img src="/images/wuziqi.png" alt="想输入的提示名字，可不输入"><br><a href="/download/五子棋.xls">点击下载</a></li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>bat代码激活office2019专业增强版</title>
-      <link href="/2019/01/13/bat%E4%BB%A3%E7%A0%81%E6%BF%80%E6%B4%BBoffice2019/"/>
-      <url>/2019/01/13/bat%E4%BB%A3%E7%A0%81%E6%BF%80%E6%B4%BBoffice2019/</url>
-      
-        <content type="html"><![CDATA[<p>2018年微软推出了Office2019办公软件。</p><p><strong>激活步骤如下</strong>：</p><ul><li><p><strong>1</strong>    鼠标右键点击开始图标，选择【windows powershell(管理员)】，或者命令提示符管理员；</p></li><li><p><strong>2</strong>    打开命令窗口，复制这个命令slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX，在命令窗口鼠标右键，会自动粘贴，按回车键执行，安装win10专业版密钥；</p></li><li><p><strong>3</strong>    接着执行命令slmgr /skms zh.us.to，设置kms服务器，kms服务器还可以是kms.03k.org或kms.chinancce.com，查看可用的kms激活服务器有哪些；</p></li><li><p><strong>4</strong>    最后执行命令slmgr /ato，激活当前系统，激活完成后提示成功地激活了产品；</p></li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>加密内容</title>
-      <link href="/2019/01/12/%E5%8A%A0%E5%AF%86%E4%BF%A1%E6%81%AF/"/>
-      <url>/2019/01/12/%E5%8A%A0%E5%AF%86%E4%BF%A1%E6%81%AF/</url>
-      
-        <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="请输入文章密码." />    <label for="pass">请输入文章密码.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/NLMWcYRnSf0i5h2d3+k1b58GchbsAhrfkjTQfPmnBs74gQua1zGTG2/wBsLFsXME0YfayZGRHoyhzTZInvbgOki4iS5sQZUsBhq4+vOJ5GWfNkbuSeqKRKcC0SjIWtfuhOSJtXkSbVYeIqZgbZWv1ete9UAhzaGi+xWjStfEvPRpNZIOkSaEY00CZgeOnabv886fP49Rn9KAndR0NWHi1ybkVj7mjryyLYnio6a+6P+MDJ8LfH3CLCxHaSAfE4VTdcbUy5Za8H4DIs0dt5huLkMzydddoIjkn4W5GgQK4qdR3WgK57cEbwfFUPKCgi67Y33/liiK3ts7URRcevvVE+21dojsMDL1heIvA+QvhWRS7fAslRSPNZdDjqfDaG3iTXWBRPBqGlbxWtArSBi/HYnLZrqNlUzH9DHU5IsvmdNtJ7ZMWmUbRcZneqF225KJiKL73hKdmzs3mcWj+EQq8B+0VPl96mCMS4zdTzFE/R7Eep7lLwNGk75rziwWlNKxfsm5NwO/iRd5Q29ndaSL944J4+ve+gFqGFs6QtRNMieeevWo0rbdsXFCkIJKhFD6yh8hNZ5c11j0jZsNyJ0SZme0YfQvH76AZs3ZPCFt9cmhu3FPOH4vqMRzNLfEP7sHNBHmKg2Zw46NLbBpXiZ0a5zAOUj7qbG8Qx8QhnCgNzc3d9Jo5Xa6EexRnOQJnPzT/7yvbRFk/LVL3OVXaH6LikFtTByIuxkO5sRa56uEZOoi7p3lUQV6dJm44N8yPCzLyRo0cLzkLvZIRFJMuzyPH2Jivq1k8n/NO5PaQ1epRz2ykH2rAZ9bfl1hVQq6IBz6xPNfg4PxGqOlChoCr6mWhMeIZF0yCUDxADqJnHo4tSEUqYewxZyA+5BUHISwYSoHi+2yUYTP/8imAouaGqmfaQqFYxkEOrnZ7Ul/qRx9PPT8xB8PVQz2WtkqCrf3Ay4Gq5ZnSr/G69gsVo58JKnruuTDjeNGQqg/jL+C75ciK/wgAXJvGaVel4xnM/bQPiKJWw+LDT1T+kGxH7wLrBMYqhoA1bEdsI/eaj3bvCN7nAoTAaFS8StpHrd5zGH8GGRdV+yw5TCnZug+r+0Xxk+bgpRAO/6tdYrxU4ma34janzjuBHcW7vH6IpNQD3AhEq0EfTtqfQZxYFsvR5MOfaI1LHV2+AVtW1rVtkuJ9lLFsl1rtGNDQ3FIpmhQvWcEPmjsak1MFWN1fuRiYwFgIoJ45UHwVwrMniD1OXlRlFhc+6sendMuGUd5gQdZyNLcNOS3bqxzGogXXVxv2izGGwwwvYKk6NrZmcKM=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>VBA实例-点击式选择</title>
-      <link href="/2018/04/07/VBA%E5%AE%9E%E4%BE%8B-%E7%82%B9%E5%87%BB%E5%BC%8F%E9%80%89%E6%8B%A9/"/>
-      <url>/2018/04/07/VBA%E5%AE%9E%E4%BE%8B-%E7%82%B9%E5%87%BB%E5%BC%8F%E9%80%89%E6%8B%A9/</url>
-      
-        <content type="html"><![CDATA[<p>在VBA讨论群中出现如图一个问题<br><a id="more"></a><br><img src="/images/4.png" alt=""></p><ul><li>1.在vbe代码窗口中，点击资源管理器sheet1，输入以下代码：</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">Private Sub Worksheet_SelectionChange(ByVal Target As Range)</span><br><span class="line">     If Target.Column &lt; 10 And Target.Row &lt;= 20 And Target.Count = 1 Then</span><br><span class="line">            If Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) = 0 Then</span><br><span class="line">                Cells(22, 2) = Target.Value</span><br><span class="line">            ElseIf Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) = 1 Then</span><br><span class="line">                Cells(22, 3) = Target.Value</span><br><span class="line">            ElseIf Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) &gt; 10 Then</span><br><span class="line">                MsgBox &quot;已选中10人&quot;</span><br><span class="line">                Exit Sub</span><br><span class="line">            Else</span><br><span class="line">                Cells(22, 2).End(xlToRight).Offset(0, 1) = Target.Value</span><br><span class="line">            End If</span><br><span class="line">       End If</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure><p>查看实例  <a href="/download/学生表格.xlsm">点击下载</a><br>效果如下<br><img src="https://i.loli.net/2018/02/22/5a8e8bccb314a.gif" alt="00.gif"></p><ul><li>2.保存，表格存为启用宏的工作簿。</li><li>3.Excel2016测试有效。</li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> 源码 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo中添加本地文件下载</title>
-      <link href="/2018/04/07/Hexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD/"/>
-      <url>/2018/04/07/Hexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD/</url>
-      
-        <content type="html"><![CDATA[<h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p>我们的博客中往往会提供一些文件供别人直接下载查看，一般来说我们会上传的百度网盘等第三方，下面我们尝试将文件和代码放在一起。</p><ul><li><p>1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True</p><a id="more"></a></li><li><p>2 在source下创建/download文件夹，先把文件xxx.xls/doc（或者其他）复制到这个文件夹</p></li><li><p>3 最后在xxxx.md中想引入下载链接时，只需要在xxxx.md中按照markdown的格式引入即可：</p></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">查看实例  [点击下载](/download/学生表格.xlsm)</span><br></pre></td></tr></table></figure><p>查看实例  <a href="/download/学生表格.xlsm">点击下载</a></p><h2 id="Second-网盘"><a href="#Second-网盘" class="headerlink" title="Second 网盘"></a>Second 网盘</h2><p>不再赘述</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>破解工作表审阅密码</title>
-      <link href="/2018/04/07/%E7%A0%B4%E8%A7%A3%E5%B7%A5%E4%BD%9C%E8%A1%A8%E5%AE%A1%E9%98%85%E5%AF%86%E7%A0%81/"/>
-      <url>/2018/04/07/%E7%A0%B4%E8%A7%A3%E5%B7%A5%E4%BD%9C%E8%A1%A8%E5%AE%A1%E9%98%85%E5%AF%86%E7%A0%81/</url>
-      
-        <content type="html"><![CDATA[<p>该代码用于破解工作表审阅密码，窗体会提示文档原密码。</p><ul><li>1.点击菜单插入模块，输入以下代码：</li></ul><a id="more"></a><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br></pre></td><td class="code"><pre><span class="line">Option Explicit</span><br><span class="line">Public Sub AllInternalPasswords()</span><br><span class="line">    &apos; Breaks worksheet and workbook structure passwords. Bob McCormick</span><br><span class="line">    &apos; probably originator of base code algorithm modified for coverage</span><br><span class="line">    &apos; of workbook structure / windows passwords and for multiple passwords</span><br><span class="line">    &apos;</span><br><span class="line">    &apos; Norman Harker and JE McGimpsey 27-Dec-2002 (Version 1.1)</span><br><span class="line">    &apos; Modified 2003-Apr-04 by JEM: All msgs to constants, and</span><br><span class="line">    &apos; eliminate one Exit Sub (Version 1.1.1)</span><br><span class="line">    &apos; Reveals hashed passwords NOT original passwords</span><br><span class="line">    Const DBLSPACE As String = vbNewLine &amp; vbNewLine</span><br><span class="line">    Const AUTHORS As String = DBLSPACE &amp; vbNewLine &amp; _</span><br><span class="line">        &quot;Adapted from Bob McCormick base code by&quot; &amp; _</span><br><span class="line">        &quot;Norman Harker and JE McGimpsey&quot;</span><br><span class="line">    Const HEADER As String = &quot;AllInternalPasswords User Message&quot;</span><br><span class="line">    Const VERSION As String = DBLSPACE &amp; &quot;Version 1.1.1 2003-Apr-04&quot;</span><br><span class="line">    Const REPBACK As String = DBLSPACE &amp; &quot;Please report failure &quot; &amp; _</span><br><span class="line">        &quot;to the microsoft.public.excel.programming newsgroup.&quot;</span><br><span class="line">    Const ALLCLEAR As String = DBLSPACE &amp; &quot;The workbook should &quot; &amp; _</span><br><span class="line">        &quot;now be free of all password protection, so make sure you:&quot; &amp; _</span><br><span class="line">        DBLSPACE &amp; &quot;SAVE IT NOW!&quot; &amp; DBLSPACE &amp; &quot;and also&quot; &amp; _</span><br><span class="line">        DBLSPACE &amp; &quot;BACKUP!, BACKUP!!, BACKUP!!!&quot; &amp; _</span><br><span class="line">        DBLSPACE &amp; &quot;Also, remember that the password was &quot; &amp; _</span><br><span class="line">        &quot;put there for a reason. Don&apos;t stuff up crucial formulas &quot; &amp; _</span><br><span class="line">        &quot;or data.&quot; &amp; DBLSPACE &amp; &quot;Access and use of some data &quot; &amp; _</span><br><span class="line">        &quot;may be an offense. If in doubt, don&apos;t.&quot;</span><br><span class="line">    Const MSGNOPWORDS1 As String = &quot;There were no passwords on &quot; &amp; _</span><br><span class="line">        &quot;sheets, or workbook structure or windows.&quot; &amp; AUTHORS &amp; VERSION</span><br><span class="line">    Const MSGNOPWORDS2 As String = &quot;There was no protection to &quot; &amp; _</span><br><span class="line">        &quot;workbook structure or windows.&quot; &amp; DBLSPACE &amp; _</span><br><span class="line">        &quot;Proceeding to unprotect sheets.&quot; &amp; AUTHORS &amp; VERSION</span><br><span class="line">    Const MSGTAKETIME As String = &quot;After pressing OK button this &quot; &amp; _</span><br><span class="line">        &quot;will take some time.&quot; &amp; DBLSPACE &amp; &quot;Amount of time &quot; &amp; _</span><br><span class="line">        &quot;depends on how many different passwords, the &quot; &amp; _</span><br><span class="line">        &quot;passwords, and your computer&apos;s specification.&quot; &amp; DBLSPACE &amp; _</span><br><span class="line">        &quot;Just be patient! Make me a coffee!&quot; &amp; AUTHORS &amp; VERSION</span><br><span class="line">    Const MSGPWORDFOUND1 As String = &quot;You had a Worksheet &quot; &amp; _</span><br><span class="line">        &quot;Structure or Windows Password set.&quot; &amp; DBLSPACE &amp; _</span><br><span class="line">        &quot;The password found was: &quot; &amp; DBLSPACE &amp; &quot;$$&quot; &amp; DBLSPACE &amp; _</span><br><span class="line">        &quot;Note it down for potential future use in other workbooks by &quot; &amp; _</span><br><span class="line">        &quot;the same person who set this password.&quot; &amp; DBLSPACE &amp; _</span><br><span class="line">        &quot;Now to check and clear other passwords.&quot; &amp; AUTHORS &amp; VERSION</span><br><span class="line">    Const MSGPWORDFOUND2 As String = &quot;You had a Worksheet &quot; &amp; _</span><br><span class="line">        &quot;password set.&quot; &amp; DBLSPACE &amp; &quot;The password found was: &quot; &amp; _</span><br><span class="line">        DBLSPACE &amp; &quot;$$&quot; &amp; DBLSPACE &amp; &quot;Note it down for potential &quot; &amp; _</span><br><span class="line">        &quot;future use in other workbooks by same person who &quot; &amp; _</span><br><span class="line">        &quot;set this password.&quot; &amp; DBLSPACE &amp; &quot;Now to check and clear &quot; &amp; _</span><br><span class="line">        &quot;other passwords.&quot; &amp; AUTHORS &amp; VERSION</span><br><span class="line">    Const MSGONLYONE As String = &quot;Only structure / windows &quot; &amp; _</span><br><span class="line">        &quot;protected with the password that was just found.&quot; &amp; _</span><br><span class="line">        ALLCLEAR &amp; AUTHORS &amp; VERSION &amp; REPBACK</span><br><span class="line">    Dim w1 As Worksheet, w2 As Worksheet</span><br><span class="line">    Dim i As Integer, j As Integer, k As Integer, l As Integer</span><br><span class="line">    Dim m As Integer, n As Integer, i1 As Integer, i2 As Integer</span><br><span class="line">    Dim i3 As Integer, i4 As Integer, i5 As Integer, i6 As Integer</span><br><span class="line">    Dim PWord1 As String</span><br><span class="line">    Dim ShTag As Boolean, WinTag As Boolean</span><br><span class="line">    Application.ScreenUpdating = False</span><br><span class="line">    With ActiveWorkbook</span><br><span class="line">        WinTag = .ProtectStructure Or .ProtectWindows</span><br><span class="line">    End With</span><br><span class="line">    ShTag = False</span><br><span class="line">    For Each w1 In Worksheets</span><br><span class="line">        ShTag = ShTag Or w1.ProtectContents</span><br><span class="line">    Next w1</span><br><span class="line">    If Not ShTag And Not WinTag Then</span><br><span class="line">        MsgBox MSGNOPWORDS1, vbInformation, HEADER</span><br><span class="line">    Exit Sub</span><br><span class="line">    End If</span><br><span class="line">    MsgBox MSGTAKETIME, vbInformation, HEADER</span><br><span class="line">    If Not WinTag Then</span><br><span class="line">        MsgBox MSGNOPWORDS2, vbInformation, HEADER</span><br><span class="line">    Else</span><br><span class="line">    On Error Resume Next</span><br><span class="line">    Do &apos;dummy do loop</span><br><span class="line">        For i = 65 To 66: For j = 65 To 66: For k = 65 To 66</span><br><span class="line">        For l = 65 To 66: For m = 65 To 66: For i1 = 65 To 66</span><br><span class="line">        For i2 = 65 To 66: For i3 = 65 To 66: For i4 = 65 To 66</span><br><span class="line">        For i5 = 65 To 66: For i6 = 65 To 66: For n = 32 To 126</span><br><span class="line">        With ActiveWorkbook</span><br><span class="line">        .Unprotect Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; _</span><br><span class="line">    Chr(l) &amp; Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; _</span><br><span class="line">    Chr(i3) &amp; Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n)</span><br><span class="line">    If .ProtectStructure = False And _</span><br><span class="line">        .ProtectWindows = False Then</span><br><span class="line">    PWord1 = Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; Chr(l) &amp; _</span><br><span class="line">    Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _</span><br><span class="line">    Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n)</span><br><span class="line">    MsgBox Application.Substitute(MSGPWORDFOUND1, _</span><br><span class="line">    &quot;$$&quot;, PWord1), vbInformation, HEADER</span><br><span class="line">    Exit Do &apos;Bypass all for...nexts</span><br><span class="line">    End If</span><br><span class="line">    End With</span><br><span class="line">    Next: Next: Next: Next: Next: Next</span><br><span class="line">    Next: Next: Next: Next: Next: Next</span><br><span class="line">    Loop Until True</span><br><span class="line">    On Error GoTo 0</span><br><span class="line">    End If</span><br><span class="line">    If WinTag And Not ShTag Then</span><br><span class="line">    MsgBox MSGONLYONE, vbInformation, HEADER</span><br><span class="line">    Exit Sub</span><br><span class="line">    End If</span><br><span class="line">    On Error Resume Next</span><br><span class="line">    For Each w1 In Worksheets</span><br><span class="line">    &apos;Attempt clearance with PWord1</span><br><span class="line">    w1.Unprotect PWord1</span><br><span class="line">    Next w1</span><br><span class="line">    </span><br><span class="line">    ShTag = False</span><br><span class="line">    For Each w1 In Worksheets</span><br><span class="line">      &apos;Checks for all clear ShTag triggered to 1 if not.</span><br><span class="line">      ShTag = ShTag Or w1.ProtectContents</span><br><span class="line">    Next w1</span><br><span class="line">    If ShTag Then</span><br><span class="line">        For Each w1 In Worksheets</span><br><span class="line">          With w1</span><br><span class="line">            If .ProtectContents Then</span><br><span class="line">              On Error Resume Next</span><br><span class="line">              Do      &apos;Dummy do loop</span><br><span class="line">                For i = 65 To 66: For j = 65 To 66: For k = 65 To 66</span><br><span class="line">                For l = 65 To 66: For m = 65 To 66: For i1 = 65 To 66</span><br><span class="line">                For i2 = 65 To 66: For i3 = 65 To 66: For i4 = 65 To 66</span><br><span class="line">                For i5 = 65 To 66: For i6 = 65 To 66: For n = 32 To 126</span><br><span class="line">                .Unprotect Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; _</span><br><span class="line">                  Chr(l) &amp; Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _</span><br><span class="line">                  Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n)</span><br><span class="line">                If Not .ProtectContents Then</span><br><span class="line">                  PWord1 = Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; Chr(l) &amp; _</span><br><span class="line">                    Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _</span><br><span class="line">                    Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n)</span><br><span class="line">                  MsgBox Application.Substitute(MSGPWORDFOUND2, _</span><br><span class="line">                        &quot;$$&quot;, PWord1), vbInformation, HEADER</span><br><span class="line">                  &apos;leverage finding Pword by trying on other sheets</span><br><span class="line">                  For Each w2 In Worksheets</span><br><span class="line">                    w2.Unprotect PWord1</span><br><span class="line">                  Next w2</span><br><span class="line">                  Exit Do  &apos;Bypass all for...nexts</span><br><span class="line">                End If</span><br><span class="line">                Next: Next: Next: Next: Next: Next</span><br><span class="line">                Next: Next: Next: Next: Next: Next</span><br><span class="line">              Loop Until True</span><br><span class="line">              On Error GoTo 0</span><br><span class="line">            End If</span><br><span class="line">          End With</span><br><span class="line">        Next w1</span><br><span class="line">    End If</span><br><span class="line">    MsgBox ALLCLEAR &amp; AUTHORS &amp; VERSION &amp; REPBACK, vbInformation, HEADER</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure><ul><li>2.保存，表格存为启用宏的工作簿。</li><li>3.开发工具&gt;运行宏，根据提示操作。</li><li>4.代码来源于网络,Excel2016测试有效。</li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> 源码 </tag>
-            
-            <tag> 破解 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>工作表逐行操作打印</title>
-      <link href="/2018/03/08/%E5%B7%A5%E4%BD%9C%E8%A1%A8%E9%80%90%E8%A1%8C%E6%93%8D%E4%BD%9C%E6%89%93%E5%8D%B0/"/>
-      <url>/2018/03/08/%E5%B7%A5%E4%BD%9C%E8%A1%A8%E9%80%90%E8%A1%8C%E6%93%8D%E4%BD%9C%E6%89%93%E5%8D%B0/</url>
-      
-        <content type="html"><![CDATA[<p>EH论坛中，有题主问如何实现自工作表第二行起逐行背景加灰，并一式打印三份。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Sub test()</span><br><span class="line">    For I = 2 To Range(&quot;A1&quot;).CurrentRegion.Rows.Count</span><br><span class="line">        Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark2</span><br><span class="line">            Application.ActiveSheet.PrintOut COPIES:=3</span><br><span class="line">         Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark1</span><br><span class="line">        Next</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> 打印 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>行业分类代码查询和批量转换工具</title>
-      <link href="/2018/02/12/%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7/"/>
-      <url>/2018/02/12/%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7/</url>
-      
-        <content type="html"><![CDATA[<p>国民经济行业分类（GB/T 4754—2017）已于2017年10月1日实施，2018年开年是行业分类代码更新和查询的高峰期，但如何查询行业代码和批量转化为2017版是当前工作中的一个难点。<br><a id="more"></a></p><p>根据个人平时工作需要制作此工具，制作过程中参阅ExcelHome论坛多篇帖子。该工具适合各级统计工作从业人员。</p><p>批量转换功能</p><ul><li><p>将待转换行业分类代码粘贴到B列，C列自动更新为新行业分类代码，一拆多默认选取第一个</p><p>  <img src="/images/3.png" alt=""></p></li></ul><p>检索功能</p><ul><li><p>需开启宏，“文件”&gt;“选项”，选择“启动内容”选项，然后“确定”即可启动宏了,不同版本可能有差异</p></li><li><p>输入关键字，点击“查找”即可<br>  <img src="/images/2.png" alt=""></p></li></ul><p>四级下拉逐级查询</p><ul><li>从大中小类逐级选取，直至确定</li></ul><p>以下提供文件链接：</p><p><a href="https://pan.baidu.com/s/1nwLPtsH" target="_blank" rel="noopener">百度网盘</a></p><p>祝自己2018年新年快乐！<br>2018-2-12   巴东</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> Excel </tag>
-            
-            <tag> 行业分类代码 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>琴瑟在御，莫不静好。</title>
-      <link href="/2018/02/09/happybd2018/"/>
-      <url>/2018/02/09/happybd2018/</url>
-      
-        <content type="html"><![CDATA[<p>愿你免为尘杂所侵<br>愿你获得永世的安宁<br>愿你修得一颗平等心<br>不贪爱不嗔恨<br>喜悦地活在当下</p><p>愿你三冬暖，愿你春不寒<br>愿你天黑有灯，下雨有伞<br>愿你一路上，有良人相伴 </p><p>琴瑟在御，莫不静好。</p><p><img src="/images/1.jpg" alt=""></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生日快乐！ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>多个工作表拆分为独立工作簿</title>
-      <link href="/2017/02/06/%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%8B%86%E5%88%86%E4%B8%BA%E7%8B%AC%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%B0%BF/"/>
-      <url>/2017/02/06/%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%8B%86%E5%88%86%E4%B8%BA%E7%8B%AC%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%B0%BF/</url>
-      
-        <content type="html"><![CDATA[<p>该代码用于多个工作表拆解成单独工作簿分发到不同用户手中。</p><a id="more"></a><ul><li>1.点击菜单插入模块，输入以下代码：</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">Private Sub 分拆工作表()</span><br><span class="line">       Dim sht As Worksheet</span><br><span class="line">       Dim MyBook As Workbook</span><br><span class="line">           Set MyBook = ActiveWorkbook</span><br><span class="line">       For Each sht In MyBook.Sheets</span><br><span class="line">           sht.Copy</span><br><span class="line">           ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name, FileFormat:=xlNormal     &apos;将工作簿另存为&quot;xls&quot;默认格式</span><br><span class="line">           &apos;ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name &amp; &quot;.xlsx&quot;     &apos;将工作簿另存为&quot;xlsx&quot;格式</span><br><span class="line">           ActiveWorkbook.Close</span><br><span class="line">       Next</span><br><span class="line">       MsgBox &quot;文件已经被分拆完毕!&quot;</span><br><span class="line">   End Sub</span><br></pre></td></tr></table></figure><ul><li>2.单击运行运行子过程|窗体，拆分的文件与源文件在同地址。文件名为工作簿名。</li><li>3.如果使用xlsx文件会导致兼容性提示，如果有几十个工作表可能会导致卡顿影响效率，请更换注释行。</li><li>4.代码来源于网络,Excel2016测试有效。</li></ul><p>建议：若想通过一张数据表拆分成多表再生成多工作簿，可在数据透视表中添加筛选字段，点击分析&gt;数据透视表选项卡&gt;选项下拉菜单&gt;生成GetGivotdata(G),然后使用该段代码。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> 源码 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>合并多个工作簿中的工作表为一个工作簿</title>
-      <link href="/2016/02/06/%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF/"/>
-      <url>/2016/02/06/%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF/</url>
-      
-        <content type="html"><![CDATA[<p>该代码用于将多用户手中收集的多个工作表合并成单独工作簿。</p><a id="more"></a><ul><li>1.点击菜单插入模块，输入以下代码：</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Sub 工作薄间工作表合并()  </span><br><span class="line">  Dim FileOpen  </span><br><span class="line">Dim X As Integer  </span><br><span class="line">Application.ScreenUpdating = False  </span><br><span class="line">FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)  </span><br><span class="line">&apos;FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;)</span><br><span class="line"> X = 1  </span><br><span class="line">While X &lt;= UBound(FileOpen)  </span><br><span class="line">Workbooks.Open Filename:=FileOpen(X)  </span><br><span class="line">Sheets().Move After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count)  </span><br><span class="line">X = X + 1  </span><br><span class="line">Wend  </span><br><span class="line">ExitHandler:  </span><br><span class="line">Application.ScreenUpdating = True  </span><br><span class="line">Exit Sub  </span><br><span class="line">errhadler:  </span><br><span class="line">MsgBox Err.Description  </span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure><ul><li>2.保存，表格存为启用宏的工作簿，如果为xlsx记得将上面的.xls修改为xlsx，或者更换注释行。</li><li>3.开发工具&gt;运行宏,按Ctrl可选择多个文件。</li><li>4.代码来源于网络,Excel2016测试有效。</li></ul><p>注：该代码只能将工作表合并到一张工作表，但不能将多表数据合并到一张表。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> VBA </tag>
-            
-            <tag> 源码 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[身份证统一社会信用代码合法校验Excel]]></title>
+    <url>%2F2019%2F05%2F18%2F%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81%E5%90%88%E6%B3%95%E6%A0%A1%E9%AA%8CExcel%2F</url>
+    <content type="text"><![CDATA[根据最新修订的《中华人民共和国居民身份证法》第二十三条规定，依照《中华人民共和国居民身份证条例》领取的居民身份证，自2013年1月1日起停止使用。即一代身份证已于2013年1月1日起停止使用，本文内容适用于二代身份证，如无特殊说明，本文中所说的身份证皆指二代身份证。 根据《法人和其他组织统一社会信用代码制度建设总体方案》：法人和其他组织统一社会信用代码共18位，包括五个部分，分别是1位登记管理部门代码、1位类别代码、6位登记管理机关行政区划码、9位主体标识码(组织代码)和1位校验码。 点击下载]]></content>
+      <tags>
+        <tag>Excel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019观影记录]]></title>
+    <url>%2F2019%2F03%2F05%2F%E7%94%B5%E5%BD%B1%E6%94%B6%E7%9C%8B%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[记录观影历程 [新局长到来之前].吕班 [飞驰人生].韩寒 [最后的棒棒].何苦 拥有今天还拥有希望，就是最大的幸福大寒过后，一定立春 [中国市长（大同）].周浩 大同大不同 [书记].周浩 [白蛇：缘起] [急救].周浩 [绿皮书].彼得·法雷里 [阳光姐妹淘] [7号房的礼物]]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[用好Excle,你可能要听听这几点建议]]></title>
+    <url>%2F2019%2F02%2F20%2F%E7%94%A8%E5%A5%BDEXCEL%2C%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%A6%81%E5%90%AC%E5%90%AC%E8%BF%99%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE%2F</url>
+    <content type="text"><![CDATA[Excel 是我们工作最常用的办公软件，没有之一。如果只是之一，可能你还没有认识到Excel的巨大用途。 用好Excel能够很大程度上提高工作效率，我们在这里并不谈Excel的使用技巧，以下是几点建议。 1.使用高版本，尝试使用新功能 从Excel 的发展历程看，版本兼容总是高版本兼容低版本，而低版本即使安装兼容包也无法正常使用。例如Excel 2003文件的宏文件后缀名为.xls而无法打开.xlsm文件，Excel 2007兼容数据透视表极差，而Excel 2003无法使用数据透视表。 绿色免安装版本的Office可能导致闪退或者其他故障。 2.要有程序化的思维 为了收集的数据规范统一、我们往往可以通过下拉框或vlookup固定一部分信息，减少他人因为习惯或手误造成数据错误的情况。 如过你会一些VBA,你也可以减少表头的使用，来方便多表快速汇总。 为了减少Excel文件个数，方便统计和打印表式一致，我们可以通过数据透视表或者vlookup结合下拉框将多个数据汇总在一张工作表。 3.培养良好的制表习惯 除非为了打印效果，不要使用合并单元格这一功能。 如果计算结果对精度有要求，不要在中间过程使用round( )函数。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo 页面中插入视频]]></title>
+    <url>%2F2019%2F02%2F17%2FHexo-%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo中添加本地图片和使用网络图片]]></title>
+    <url>%2F2019%2F01%2F18%2FHexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%2F</url>
+    <content type="text"><![CDATA[First 相对引用由于首页和主页相对图片位置不一致，网站首页和内页很可能仅有一处能正常加载。 1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True 2 在source下创建/images文件夹，先把图片xx.jpg/png复制到这个文件夹 3 最后在xxxx.md中想引入图片时，只需要在xxxx.md中按照markdown的格式引入图片： 1![想输入的提示名字，可不输入](/images/xx.jpg) Second 图床 如SMMS图床无需注册 以下是测试：请备份，Delete Link,必要时访问此链接删除图片。 注：本地插入视频的方式123&lt;video controls&gt;&lt;source src="ocean.mp4"&gt;&lt;/video&gt;]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Excel Vba 制作的几款游戏]]></title>
+    <url>%2F2019%2F01%2F18%2FExcel-Vba-%E5%88%B6%E4%BD%9C%E7%9A%84%E5%87%A0%E6%AC%BE%E6%B8%B8%E6%88%8F%2F</url>
+    <content type="text"><![CDATA[Excel 除了不能生孩子，其他的都能做。这里分享几个用Excel制作的游戏。 中国象棋点击下载 五子棋点击下载]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[bat代码激活office2019专业增强版]]></title>
+    <url>%2F2019%2F01%2F13%2Fbat%E4%BB%A3%E7%A0%81%E6%BF%80%E6%B4%BBoffice2019%2F</url>
+    <content type="text"><![CDATA[2018年微软推出了Office2019办公软件。 激活步骤如下： 1 鼠标右键点击开始图标，选择【windows powershell(管理员)】，或者命令提示符管理员； 2 打开命令窗口，复制这个命令slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX，在命令窗口鼠标右键，会自动粘贴，按回车键执行，安装win10专业版密钥； 3 接着执行命令slmgr /skms zh.us.to，设置kms服务器，kms服务器还可以是kms.03k.org或kms.chinancce.com，查看可用的kms激活服务器有哪些； 4 最后执行命令slmgr /ato，激活当前系统，激活完成后提示成功地激活了产品；]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[加密内容]]></title>
+    <url>%2F2019%2F01%2F12%2F%E5%8A%A0%E5%AF%86%E4%BF%A1%E6%81%AF%2F</url>
+    <content type="text"><![CDATA[请输入文章密码. Incorrect Password! No content to display! U2FsdGVkX1/NLMWcYRnSf0i5h2d3+k1b58GchbsAhrfkjTQfPmnBs74gQua1zGTG2/wBsLFsXME0YfayZGRHoyhzTZInvbgOki4iS5sQZUsBhq4+vOJ5GWfNkbuSeqKRKcC0SjIWtfuhOSJtXkSbVYeIqZgbZWv1ete9UAhzaGi+xWjStfEvPRpNZIOkSaEY00CZgeOnabv886fP49Rn9KAndR0NWHi1ybkVj7mjryyLYnio6a+6P+MDJ8LfH3CLCxHaSAfE4VTdcbUy5Za8H4DIs0dt5huLkMzydddoIjkn4W5GgQK4qdR3WgK57cEbwfFUPKCgi67Y33/liiK3ts7URRcevvVE+21dojsMDL1heIvA+QvhWRS7fAslRSPNZdDjqfDaG3iTXWBRPBqGlbxWtArSBi/HYnLZrqNlUzH9DHU5IsvmdNtJ7ZMWmUbRcZneqF225KJiKL73hKdmzs3mcWj+EQq8B+0VPl96mCMS4zdTzFE/R7Eep7lLwNGk75rziwWlNKxfsm5NwO/iRd5Q29ndaSL944J4+ve+gFqGFs6QtRNMieeevWo0rbdsXFCkIJKhFD6yh8hNZ5c11j0jZsNyJ0SZme0YfQvH76AZs3ZPCFt9cmhu3FPOH4vqMRzNLfEP7sHNBHmKg2Zw46NLbBpXiZ0a5zAOUj7qbG8Qx8QhnCgNzc3d9Jo5Xa6EexRnOQJnPzT/7yvbRFk/LVL3OVXaH6LikFtTByIuxkO5sRa56uEZOoi7p3lUQV6dJm44N8yPCzLyRo0cLzkLvZIRFJMuzyPH2Jivq1k8n/NO5PaQ1epRz2ykH2rAZ9bfl1hVQq6IBz6xPNfg4PxGqOlChoCr6mWhMeIZF0yCUDxADqJnHo4tSEUqYewxZyA+5BUHISwYSoHi+2yUYTP/8imAouaGqmfaQqFYxkEOrnZ7Ul/qRx9PPT8xB8PVQz2WtkqCrf3Ay4Gq5ZnSr/G69gsVo58JKnruuTDjeNGQqg/jL+C75ciK/wgAXJvGaVel4xnM/bQPiKJWw+LDT1T+kGxH7wLrBMYqhoA1bEdsI/eaj3bvCN7nAoTAaFS8StpHrd5zGH8GGRdV+yw5TCnZug+r+0Xxk+bgpRAO/6tdYrxU4ma34janzjuBHcW7vH6IpNQD3AhEq0EfTtqfQZxYFsvR5MOfaI1LHV2+AVtW1rVtkuJ9lLFsl1rtGNDQ3FIpmhQvWcEPmjsak1MFWN1fuRiYwFgIoJ45UHwVwrMniD1OXlRlFhc+6sendMuGUd5gQdZyNLcNOS3bqxzGogXXVxv2izGGwwwvYKk6NrZmcKM=]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[VBA实例-点击式选择]]></title>
+    <url>%2F2018%2F04%2F07%2FVBA%E5%AE%9E%E4%BE%8B-%E7%82%B9%E5%87%BB%E5%BC%8F%E9%80%89%E6%8B%A9%2F</url>
+    <content type="text"><![CDATA[在VBA讨论群中出现如图一个问题 1.在vbe代码窗口中，点击资源管理器sheet1，输入以下代码： 123456789101112131415Private Sub Worksheet_SelectionChange(ByVal Target As Range) If Target.Column &lt; 10 And Target.Row &lt;= 20 And Target.Count = 1 Then If Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) = 0 Then Cells(22, 2) = Target.Value ElseIf Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) = 1 Then Cells(22, 3) = Target.Value ElseIf Application.WorksheetFunction.CountA(Range(&quot;22:22&quot;)) &gt; 10 Then MsgBox &quot;已选中10人&quot; Exit Sub Else Cells(22, 2).End(xlToRight).Offset(0, 1) = Target.Value End If End IfEnd Sub 查看实例 点击下载效果如下 2.保存，表格存为启用宏的工作簿。 3.Excel2016测试有效。]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>源码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo中添加本地文件下载]]></title>
+    <url>%2F2018%2F04%2F07%2FHexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%2F</url>
+    <content type="text"><![CDATA[First我们的博客中往往会提供一些文件供别人直接下载查看，一般来说我们会上传的百度网盘等第三方，下面我们尝试将文件和代码放在一起。 1 调整程序配置文件_config.yml 里的post_asset_folder:这个选项设置为True 2 在source下创建/download文件夹，先把文件xxx.xls/doc（或者其他）复制到这个文件夹 3 最后在xxxx.md中想引入下载链接时，只需要在xxxx.md中按照markdown的格式引入即可： 1查看实例 [点击下载](/download/学生表格.xlsm) 查看实例 点击下载 Second 网盘不再赘述]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[破解工作表审阅密码]]></title>
+    <url>%2F2018%2F04%2F07%2F%E7%A0%B4%E8%A7%A3%E5%B7%A5%E4%BD%9C%E8%A1%A8%E5%AE%A1%E9%98%85%E5%AF%86%E7%A0%81%2F</url>
+    <content type="text"><![CDATA[该代码用于破解工作表审阅密码，窗体会提示文档原密码。 1.点击菜单插入模块，输入以下代码： 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148Option ExplicitPublic Sub AllInternalPasswords() &apos; Breaks worksheet and workbook structure passwords. Bob McCormick &apos; probably originator of base code algorithm modified for coverage &apos; of workbook structure / windows passwords and for multiple passwords &apos; &apos; Norman Harker and JE McGimpsey 27-Dec-2002 (Version 1.1) &apos; Modified 2003-Apr-04 by JEM: All msgs to constants, and &apos; eliminate one Exit Sub (Version 1.1.1) &apos; Reveals hashed passwords NOT original passwords Const DBLSPACE As String = vbNewLine &amp; vbNewLine Const AUTHORS As String = DBLSPACE &amp; vbNewLine &amp; _ &quot;Adapted from Bob McCormick base code by&quot; &amp; _ &quot;Norman Harker and JE McGimpsey&quot; Const HEADER As String = &quot;AllInternalPasswords User Message&quot; Const VERSION As String = DBLSPACE &amp; &quot;Version 1.1.1 2003-Apr-04&quot; Const REPBACK As String = DBLSPACE &amp; &quot;Please report failure &quot; &amp; _ &quot;to the microsoft.public.excel.programming newsgroup.&quot; Const ALLCLEAR As String = DBLSPACE &amp; &quot;The workbook should &quot; &amp; _ &quot;now be free of all password protection, so make sure you:&quot; &amp; _ DBLSPACE &amp; &quot;SAVE IT NOW!&quot; &amp; DBLSPACE &amp; &quot;and also&quot; &amp; _ DBLSPACE &amp; &quot;BACKUP!, BACKUP!!, BACKUP!!!&quot; &amp; _ DBLSPACE &amp; &quot;Also, remember that the password was &quot; &amp; _ &quot;put there for a reason. Don&apos;t stuff up crucial formulas &quot; &amp; _ &quot;or data.&quot; &amp; DBLSPACE &amp; &quot;Access and use of some data &quot; &amp; _ &quot;may be an offense. If in doubt, don&apos;t.&quot; Const MSGNOPWORDS1 As String = &quot;There were no passwords on &quot; &amp; _ &quot;sheets, or workbook structure or windows.&quot; &amp; AUTHORS &amp; VERSION Const MSGNOPWORDS2 As String = &quot;There was no protection to &quot; &amp; _ &quot;workbook structure or windows.&quot; &amp; DBLSPACE &amp; _ &quot;Proceeding to unprotect sheets.&quot; &amp; AUTHORS &amp; VERSION Const MSGTAKETIME As String = &quot;After pressing OK button this &quot; &amp; _ &quot;will take some time.&quot; &amp; DBLSPACE &amp; &quot;Amount of time &quot; &amp; _ &quot;depends on how many different passwords, the &quot; &amp; _ &quot;passwords, and your computer&apos;s specification.&quot; &amp; DBLSPACE &amp; _ &quot;Just be patient! Make me a coffee!&quot; &amp; AUTHORS &amp; VERSION Const MSGPWORDFOUND1 As String = &quot;You had a Worksheet &quot; &amp; _ &quot;Structure or Windows Password set.&quot; &amp; DBLSPACE &amp; _ &quot;The password found was: &quot; &amp; DBLSPACE &amp; &quot;$$&quot; &amp; DBLSPACE &amp; _ &quot;Note it down for potential future use in other workbooks by &quot; &amp; _ &quot;the same person who set this password.&quot; &amp; DBLSPACE &amp; _ &quot;Now to check and clear other passwords.&quot; &amp; AUTHORS &amp; VERSION Const MSGPWORDFOUND2 As String = &quot;You had a Worksheet &quot; &amp; _ &quot;password set.&quot; &amp; DBLSPACE &amp; &quot;The password found was: &quot; &amp; _ DBLSPACE &amp; &quot;$$&quot; &amp; DBLSPACE &amp; &quot;Note it down for potential &quot; &amp; _ &quot;future use in other workbooks by same person who &quot; &amp; _ &quot;set this password.&quot; &amp; DBLSPACE &amp; &quot;Now to check and clear &quot; &amp; _ &quot;other passwords.&quot; &amp; AUTHORS &amp; VERSION Const MSGONLYONE As String = &quot;Only structure / windows &quot; &amp; _ &quot;protected with the password that was just found.&quot; &amp; _ ALLCLEAR &amp; AUTHORS &amp; VERSION &amp; REPBACK Dim w1 As Worksheet, w2 As Worksheet Dim i As Integer, j As Integer, k As Integer, l As Integer Dim m As Integer, n As Integer, i1 As Integer, i2 As Integer Dim i3 As Integer, i4 As Integer, i5 As Integer, i6 As Integer Dim PWord1 As String Dim ShTag As Boolean, WinTag As Boolean Application.ScreenUpdating = False With ActiveWorkbook WinTag = .ProtectStructure Or .ProtectWindows End With ShTag = False For Each w1 In Worksheets ShTag = ShTag Or w1.ProtectContents Next w1 If Not ShTag And Not WinTag Then MsgBox MSGNOPWORDS1, vbInformation, HEADER Exit Sub End If MsgBox MSGTAKETIME, vbInformation, HEADER If Not WinTag Then MsgBox MSGNOPWORDS2, vbInformation, HEADER Else On Error Resume Next Do &apos;dummy do loop For i = 65 To 66: For j = 65 To 66: For k = 65 To 66 For l = 65 To 66: For m = 65 To 66: For i1 = 65 To 66 For i2 = 65 To 66: For i3 = 65 To 66: For i4 = 65 To 66 For i5 = 65 To 66: For i6 = 65 To 66: For n = 32 To 126 With ActiveWorkbook .Unprotect Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; _ Chr(l) &amp; Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; _ Chr(i3) &amp; Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n) If .ProtectStructure = False And _ .ProtectWindows = False Then PWord1 = Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; Chr(l) &amp; _ Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _ Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n) MsgBox Application.Substitute(MSGPWORDFOUND1, _ &quot;$$&quot;, PWord1), vbInformation, HEADER Exit Do &apos;Bypass all for...nexts End If End With Next: Next: Next: Next: Next: Next Next: Next: Next: Next: Next: Next Loop Until True On Error GoTo 0 End If If WinTag And Not ShTag Then MsgBox MSGONLYONE, vbInformation, HEADER Exit Sub End If On Error Resume Next For Each w1 In Worksheets &apos;Attempt clearance with PWord1 w1.Unprotect PWord1 Next w1 ShTag = False For Each w1 In Worksheets &apos;Checks for all clear ShTag triggered to 1 if not. ShTag = ShTag Or w1.ProtectContents Next w1 If ShTag Then For Each w1 In Worksheets With w1 If .ProtectContents Then On Error Resume Next Do &apos;Dummy do loop For i = 65 To 66: For j = 65 To 66: For k = 65 To 66 For l = 65 To 66: For m = 65 To 66: For i1 = 65 To 66 For i2 = 65 To 66: For i3 = 65 To 66: For i4 = 65 To 66 For i5 = 65 To 66: For i6 = 65 To 66: For n = 32 To 126 .Unprotect Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; _ Chr(l) &amp; Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _ Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n) If Not .ProtectContents Then PWord1 = Chr(i) &amp; Chr(j) &amp; Chr(k) &amp; Chr(l) &amp; _ Chr(m) &amp; Chr(i1) &amp; Chr(i2) &amp; Chr(i3) &amp; _ Chr(i4) &amp; Chr(i5) &amp; Chr(i6) &amp; Chr(n) MsgBox Application.Substitute(MSGPWORDFOUND2, _ &quot;$$&quot;, PWord1), vbInformation, HEADER &apos;leverage finding Pword by trying on other sheets For Each w2 In Worksheets w2.Unprotect PWord1 Next w2 Exit Do &apos;Bypass all for...nexts End If Next: Next: Next: Next: Next: Next Next: Next: Next: Next: Next: Next Loop Until True On Error GoTo 0 End If End With Next w1 End If MsgBox ALLCLEAR &amp; AUTHORS &amp; VERSION &amp; REPBACK, vbInformation, HEADEREnd Sub 2.保存，表格存为启用宏的工作簿。 3.开发工具&gt;运行宏，根据提示操作。 4.代码来源于网络,Excel2016测试有效。]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>源码</tag>
+        <tag>破解</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[工作表逐行操作打印]]></title>
+    <url>%2F2018%2F03%2F08%2F%E5%B7%A5%E4%BD%9C%E8%A1%A8%E9%80%90%E8%A1%8C%E6%93%8D%E4%BD%9C%E6%89%93%E5%8D%B0%2F</url>
+    <content type="text"><![CDATA[EH论坛中，有题主问如何实现自工作表第二行起逐行背景加灰，并一式打印三份。 1234567Sub test() For I = 2 To Range(&quot;A1&quot;).CurrentRegion.Rows.Count Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark2 Application.ActiveSheet.PrintOut COPIES:=3 Range(&quot;A&quot; &amp; I &amp; &quot;:&quot; &amp; &quot;C&quot; &amp; I).Interior.ThemeColor = xlThemeColorDark1 NextEnd Sub]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>打印</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[行业分类代码查询和批量转换工具]]></title>
+    <url>%2F2018%2F02%2F12%2F%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7%2F</url>
+    <content type="text"><![CDATA[国民经济行业分类（GB/T 4754—2017）已于2017年10月1日实施，2018年开年是行业分类代码更新和查询的高峰期，但如何查询行业代码和批量转化为2017版是当前工作中的一个难点。 根据个人平时工作需要制作此工具，制作过程中参阅ExcelHome论坛多篇帖子。该工具适合各级统计工作从业人员。 批量转换功能 将待转换行业分类代码粘贴到B列，C列自动更新为新行业分类代码，一拆多默认选取第一个 检索功能 需开启宏，“文件”&gt;“选项”，选择“启动内容”选项，然后“确定”即可启动宏了,不同版本可能有差异 输入关键字，点击“查找”即可 四级下拉逐级查询 从大中小类逐级选取，直至确定 以下提供文件链接： 百度网盘 祝自己2018年新年快乐！2018-2-12 巴东]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>Excel</tag>
+        <tag>行业分类代码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[琴瑟在御，莫不静好。]]></title>
+    <url>%2F2018%2F02%2F09%2Fhappybd2018%2F</url>
+    <content type="text"><![CDATA[愿你免为尘杂所侵愿你获得永世的安宁愿你修得一颗平等心不贪爱不嗔恨喜悦地活在当下 愿你三冬暖，愿你春不寒愿你天黑有灯，下雨有伞愿你一路上，有良人相伴 琴瑟在御，莫不静好。]]></content>
+      <tags>
+        <tag>生日快乐！</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[多个工作表拆分为独立工作簿]]></title>
+    <url>%2F2017%2F02%2F06%2F%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E8%A1%A8%E6%8B%86%E5%88%86%E4%B8%BA%E7%8B%AC%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%B0%BF%2F</url>
+    <content type="text"><![CDATA[该代码用于多个工作表拆解成单独工作簿分发到不同用户手中。 1.点击菜单插入模块，输入以下代码： 123456789101112Private Sub 分拆工作表() Dim sht As Worksheet Dim MyBook As Workbook Set MyBook = ActiveWorkbook For Each sht In MyBook.Sheets sht.Copy ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name, FileFormat:=xlNormal &apos;将工作簿另存为&quot;xls&quot;默认格式 &apos;ActiveWorkbook.SaveAs Filename:=MyBook.Path &amp; &quot;\&quot; &amp; sht.Name &amp; &quot;.xlsx&quot; &apos;将工作簿另存为&quot;xlsx&quot;格式 ActiveWorkbook.Close Next MsgBox &quot;文件已经被分拆完毕!&quot; End Sub 2.单击运行运行子过程|窗体，拆分的文件与源文件在同地址。文件名为工作簿名。 3.如果使用xlsx文件会导致兼容性提示，如果有几十个工作表可能会导致卡顿影响效率，请更换注释行。 4.代码来源于网络,Excel2016测试有效。 建议：若想通过一张数据表拆分成多表再生成多工作簿，可在数据透视表中添加筛选字段，点击分析&gt;数据透视表选项卡&gt;选项下拉菜单&gt;生成GetGivotdata(G),然后使用该段代码。]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>源码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[合并多个工作簿中的工作表为一个工作簿]]></title>
+    <url>%2F2016%2F02%2F06%2F%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%B0%BF%2F</url>
+    <content type="text"><![CDATA[该代码用于将多用户手中收集的多个工作表合并成单独工作簿。 1.点击菜单插入模块，输入以下代码： 123456789101112131415161718Sub 工作薄间工作表合并() Dim FileOpen Dim X As Integer Application.ScreenUpdating = False FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;) &apos;FileOpen = Application.GetOpenFilename(FileFilter:=&quot;Microsoft Excel文件(*.xls),*.xls&quot;, MultiSelect:=True, Title:=&quot;合并工作薄&quot;) X = 1 While X &lt;= UBound(FileOpen) Workbooks.Open Filename:=FileOpen(X) Sheets().Move After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count) X = X + 1 Wend ExitHandler: Application.ScreenUpdating = True Exit Sub errhadler: MsgBox Err.Description End Sub 2.保存，表格存为启用宏的工作簿，如果为xlsx记得将上面的.xls修改为xlsx，或者更换注释行。 3.开发工具&gt;运行宏,按Ctrl可选择多个文件。 4.代码来源于网络,Excel2016测试有效。 注：该代码只能将工作表合并到一张工作表，但不能将多表数据合并到一张表。]]></content>
+      <tags>
+        <tag>VBA</tag>
+        <tag>源码</tag>
+      </tags>
+  </entry>
 </search>
